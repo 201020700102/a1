@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kudapk10.tomreznick.com/sitemap.xml
